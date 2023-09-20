@@ -1,0 +1,14 @@
+body.admin-bar nav {
+  /* margin-top: 32px; */
+}
+
+img.main-logo {
+  width: 100px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.hero-area {
+  width: 100%;
+  height: 850px;
+}
